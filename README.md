@@ -1,2 +1,2 @@
 # hmis-repo01
-hmis primer repo
+Hola, este es el repositorio de HMIS-2024.
